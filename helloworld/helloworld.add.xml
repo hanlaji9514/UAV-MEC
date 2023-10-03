@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-08-30 07:33:38 by Eclipse SUMO netedit Version 1.11.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <output>
+        <output-file value="/home/veins/workspace.omnetpp/helloworld.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+    <netedit>
+        <additional-files value="/home/veins/workspace.omnetpp/helloworld.add.net.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <poly id="poly_0" type="building" color="red" fill="0" layer="0.00" shape="312.500000,450.000000 312.500000,450.000000 262.500000,450.000000 262.500000,475.000000 312.500000,475.000000 312.500000,450.000000 275.000000,450.000000"/>
+    <poly id="poly_1" type="building" color="red" fill="0" layer="0.00" shape="200.000000,450.000000 150.000000,450.000000 150.000000,475.000000 200.000000,475.000000 200.000000,450.000000"/>
+    <poly id="poly_2" type="building" color="red" fill="0" layer="0.00" shape="87.500000,450.000000 37.500000,450.000000 37.500000,475.000000 87.500000,475.000000 87.500000,450.000000"/>
+    <poly id="poly_3" type="building" color="red" fill="0" layer="0.00" shape="100.000000,525.000000 150.000000,525.000000 150.000000,550.000000 100.000000,550.000000 100.000000,525.000000"/>
+    <poly id="poly_4" type="building" color="red" fill="0" layer="0.00" shape="212.500000,550.000000 212.500000,525.000000 262.500000,525.000000 262.500000,550.000000 212.500000,550.000000"/>
+    <poly id="poly_5" type="building" color="red" fill="0" layer="0.00" shape="262.500000,675.000000 262.500000,650.000000 312.500000,650.000000 312.500000,675.000000 262.500000,675.000000"/>
+    <poly id="poly_6" type="building" color="red" fill="0" layer="0.00" shape="475.000000,475.000000 475.000000,450.000000 525.000000,450.000000 525.000000,475.000000 475.000000,475.000000"/>
+</additional>
